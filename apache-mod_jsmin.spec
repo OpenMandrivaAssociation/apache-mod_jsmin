@@ -8,7 +8,7 @@
 Summary:	Apache module which 'minifies' javascript
 Name:		apache-%{mod_name}
 Version:	0
-Release: 	%mkrel 0.%{snap}.1
+Release: 	%mkrel 0.%{snap}.2
 Group:		System/Servers
 License:	BSD
 URL:		http://code.google.com/p/modjsmin/
