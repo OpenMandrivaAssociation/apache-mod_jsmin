@@ -11,7 +11,7 @@ Version:	0
 Release: 	0.%{snap}.7
 Group:		System/Servers
 License:	BSD
-URL:		http://code.google.com/p/modjsmin/
+URL:		https://code.google.com/p/modjsmin/
 Source0:	mod_jsmin.tar.gz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
